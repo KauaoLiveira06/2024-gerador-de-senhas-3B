@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Sedan+SC&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --preto: #000814ff;
+    --azul-oxford: #001d3dff;
+    --azul-escuro: rgb(0, 99, 192);
+    --amarelo: #ffc300ff;
+    --dourado: #ffd60aff;
+    --fonte-titulo: "Sedan SC", serif;
+    --fonte-texto: "Roboto Mono", monospace;
+}
+
+body {
+    background-color: var(--azul-escuro);
+}
