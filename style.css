@@ -17,4 +17,11 @@
 
 body {
     background-color: var(--azul-escuro);
+    color: var(--amarelo);
+    font-family: var(--fonte-texto);
 }
+
+.titulo-principal{
+    font-family: var(--fonte-titulo);
+}
+
